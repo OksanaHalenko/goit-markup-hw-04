@@ -189,7 +189,6 @@ img {
   align-items: center;
   justify-content: center;
   height: 112px;
-  padding: 24px 100px;
   background-color: #f4f4fd;
   border: 1px solid #8e8f99;
   border-radius: 4px;
@@ -364,7 +363,6 @@ img {
 .footer-wrapper {
   display: flex;
   align-items: baseline;
-  gap: 120px;
 }
 .footer-box {
   margin-right: 120px;
